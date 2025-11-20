@@ -1,9 +1,3 @@
-# Google Doodle Champion Island Games
-
-On 26 July 2021, Google released [the "Champion Island Games" Doodle](https://www.google.com/doodles/doodle-champion-island-games-july-26).
-
-This repository contains all the (publicly available) code and assets for that doodle.
-
-All content in this repo is owned and copyrighted by [Google LLC](https://google.com) and/or [STUDIO4°C](http://www.studio4c.co.jp/) (the creators of the game). Please respect their ownership.
-
-The game can be played here: https://blog.pother.ca/Google-Doodle-Champion-Island/
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fabc006bcf64c354db7939ed069485b8be680618e0f5db5e00cd7e46d957c0c
+size 546

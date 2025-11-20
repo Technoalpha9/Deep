@@ -1,16 +1,3 @@
-{
-"companyName": "DefaultCompany",
-"productName": "GeometryDashLife",
-"productVersion": "0.1",
-"dataUrl": "GeometryDashLite.data.unityweb",
-"wasmCodeUrl": "GeometryDashLite.wasm.code.unityweb",
-"wasmFrameworkUrl": "GeometryDashLite.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
-"multithreading": false,
-"unityVersion": "2019.4.24f1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7686a145bde6b99368cc3cd8050a583be7d904647be5dcead6a19e964df29cc
+size 550

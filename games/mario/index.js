@@ -1,16 +1,3 @@
-﻿var time = Date.now();
-
-document.onreadystatechange = function (event) {
-    if (event.target.readyState !== "complete") {
-        return;
-    }
-
-    var UserWrapper = new UserWrappr.UserWrappr(FullScreenMario.FullScreenMario.prototype.proliferate(
-        {
-            "GameStartrConstructor": FullScreenMario.FullScreenMario
-        }, FullScreenMario.FullScreenMario.settings.ui, true));
-
-    console.log("It took " + (Date.now() - time) + " milliseconds to start.");
-    
-    UserWrapper.GameStarter.UsageHelper.displayHelpMenu();
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:47cd20a61d7a868fe806a7dfd95b5f5060985349882bcda15f691cc0df34b822
+size 542

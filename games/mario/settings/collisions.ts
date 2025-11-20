@@ -1,26 +1,3 @@
-/// <reference path="../FullScreenMario.ts" />
-
-namespace FullScreenMario {
-    "use strict";
-
-    FullScreenMario.settings.collisions = {
-        "keyGroupName": "groupType",
-        "keyTypeName": "title",
-        "globalCheckGenerators": {
-            "Character": FullScreenMario.prototype.generateCanThingCollide,
-            "Solid": FullScreenMario.prototype.generateCanThingCollide
-        },
-        "hitCheckGenerators": {
-            "Character": {
-                "Character": FullScreenMario.prototype.generateIsCharacterTouchingCharacter,
-                "Solid": FullScreenMario.prototype.generateIsCharacterTouchingSolid
-            }
-        },
-        "hitCallbackGenerators": {
-            "Character": {
-                "Solid": FullScreenMario.prototype.generateHitCharacterSolid,
-                "Character": FullScreenMario.prototype.generateHitCharacterCharacter
-            }
-        }
-    };
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5adcc577a1f996e6b484e97646658baceeade5e70093b459d2359af0f0091cf
+size 920

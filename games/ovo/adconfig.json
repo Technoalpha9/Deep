@@ -1,16 +1,3 @@
-{
-  "networks": [
-    "Poki",
-    "CrazyGames",
-    "GamePix",
-    "GameDistribution",
-    "GameMonetize",
-    "CoolMathGames"
-  ],
-  "name": "",
-  "gameId": "1377b99c10284c229423118a941af3b1",
-  "removeSocials": false,
-  "stopAudioInBackground": false,
-  "removeMidrollRewarded": true,
-  "noReligion": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58e8df1c6bcc522df56e4314797198b5db964a49ecae2c4fc6bb412df2b6dbf
+size 327

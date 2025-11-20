@@ -1,27 +1,3 @@
-FullScreenMario.FullScreenMario.settings.runner = {
-    "games": [
-        function () {
-            this.DeviceLayer.checkNavigatorGamepads();
-            this.DeviceLayer.activateAllGamepadTriggers();
-        },
-        function () {
-            this.QuadsKeeper.determineAllQuadrants("Scenery", this.GroupHolder.getSceneryGroup());
-            this.QuadsKeeper.determineAllQuadrants("Text", this.GroupHolder.getTextGroup());
-        },
-        function () {
-            this.maintainSolids(this, this.GroupHolder.getSolidGroup());
-        },
-        function () {
-            this.maintainCharacters(this, this.GroupHolder.getCharacterGroup());
-        },
-        function () {
-            this.maintainPlayer(this, this.player);
-        },
-        function () {
-            this.TimeHandler.handleEvents();
-        },
-        function () {
-            this.PixelDrawer.refillGlobalCanvas(this.AreaSpawner.getArea().background);
-        }
-    ]
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:51dfebf92d74905eb594cebf8694265e1acef8ee02587d2445b49cd7918c58ac
+size 951
