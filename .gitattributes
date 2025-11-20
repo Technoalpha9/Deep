@@ -63,6 +63,12 @@
 /Users/technoalpha/Projects/Deep/games/dud.html filter=lfs diff=lfs merge=lfs -text
 /Users/technoalpha/Projects/Deep/games/dadish filter=lfs diff=lfs merge=lfs -text
 /Users/technoalpha/Projects/Deep/games/getting-over-it.html filter=lfs diff=lfs merge=lfs -text
+games/** filter=lfs diff=lfs merge=lfs -text
+assets/** filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
 /VERT3X[[:space:]]v2.1[[:space:]]PATCH/1st[[:space:]]Person/FNAF[[:space:]](1-4)/FNAF[[:space:]]1.html filter=lfs diff=lfs merge=lfs -text
 /VERT3X[[:space:]]v2.1[[:space:]]PATCH/1st[[:space:]]Person/FNAF[[:space:]](1-4)/FNAF[[:space:]]2.html filter=lfs diff=lfs merge=lfs -text
 /VERT3X[[:space:]]v2.1[[:space:]]PATCH/1st[[:space:]]Person/FNAF[[:space:]](1-4)/FNAF[[:space:]]4.html filter=lfs diff=lfs merge=lfs -text
